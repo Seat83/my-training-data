@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-15T08:27:57.347488",
+    "last_updated": "2026-04-15T09:53:45.862499",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.102"
@@ -139,9 +139,11 @@
     "alarm_refs": []
   },
   "history": {
-    "available": false,
-    "history_confidence": "low",
-    "note": "No history.json available. Longitudinal analysis limited to current 28-day window."
+    "available": true,
+    "last_generated": "2026-04-15",
+    "age_days": 0,
+    "total_months": 9,
+    "history_confidence": "medium"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
@@ -222,7 +224,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 65,
+      "steps": 1116,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -424,12 +426,13 @@
       "phase": "Base",
       "confidence": "medium",
       "reason_codes": [
+        "PHASE_TRANSITION_Recovery_TO_Base",
         "NO_PLANNED_WORKOUTS"
       ],
       "basis": {
         "stream_1": {
-          "ctl_slope": null,
-          "acwr_trend": null,
+          "ctl_slope": -0.35,
+          "acwr_trend": "rising",
           "hard_day_pattern": 0,
           "weeks_available": 4
         },
@@ -446,13 +449,14 @@
         "data_quality": "good",
         "stream_agreement": null
       },
-      "previous_phase": null,
+      "previous_phase": "Recovery",
       "phase_duration_weeks": 1,
       "dossier_declared": null,
       "dossier_agreement": null
     },
     "phase_detected": "Base",
     "phase_triggers": [
+      "PHASE_TRANSITION_Recovery_TO_Base",
       "NO_PLANNED_WORKOUTS"
     ],
     "seasonal_context": "Late Base / Build",
@@ -476,7 +480,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-15T08:27:57.347292",
+    "calculation_timestamp": "2026-04-15T09:53:45.861637",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 1,
@@ -1353,7 +1357,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 65,
+      "steps": 1116,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
