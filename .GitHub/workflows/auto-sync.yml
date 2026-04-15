@@ -1,4 +1,4 @@
-name: Auto-Sync Intervals.icu Data
+name:Auto-Sync Intervals.icu Data
 
 on:
   schedule:
