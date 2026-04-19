@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T18:29:52.715219",
+  "generated_at": "2026-04-19T19:22:29.793006",
   "version": "3.102",
   "script_hash": "9a6a11cf71d2",
   "scan_hours": 72,
@@ -591,6 +591,135 @@
           "avg_hr": 138,
           "max_hr": 140,
           "avg_cadence": 84.72222,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i141243211",
+      "date": "2026-04-19",
+      "type": "Run",
+      "name": "Vila Nova de Gaia Running",
+      "interval_summary": [
+        "12x 6m31s 136bpm",
+        "1x 10s 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 389,
+          "avg_hr": 124,
+          "max_hr": 134,
+          "avg_cadence": 83.825195,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 388,
+          "avg_hr": 131,
+          "max_hr": 139,
+          "avg_cadence": 84.8067,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 386,
+          "avg_hr": 134,
+          "max_hr": 144,
+          "avg_cadence": 84.5829,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 392,
+          "avg_hr": 134,
+          "max_hr": 137,
+          "avg_cadence": 84.38265,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 393,
+          "avg_hr": 135,
+          "max_hr": 137,
+          "avg_cadence": 84.15776,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 393,
+          "avg_hr": 135,
+          "max_hr": 140,
+          "avg_cadence": 84.175575,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 390,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 84.4359,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 394,
+          "avg_hr": 138,
+          "max_hr": 143,
+          "avg_cadence": 84.96954,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 387,
+          "avg_hr": 138,
+          "max_hr": 144,
+          "avg_cadence": 85.237724,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 394,
+          "avg_hr": 140,
+          "max_hr": 145,
+          "avg_cadence": 85.24619,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 398,
+          "avg_hr": 140,
+          "max_hr": 149,
+          "avg_cadence": 84.766335,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "391s@136bpm85rpm",
+          "duration_secs": 386,
+          "avg_hr": 141,
+          "max_hr": 148,
+          "avg_cadence": 85.09326,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "10s@140bpm86rpm",
+          "duration_secs": 10,
+          "avg_hr": 140,
+          "max_hr": 141,
+          "avg_cadence": 85.5,
           "zone": 2
         }
       ]
