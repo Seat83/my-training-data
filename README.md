@@ -2,7 +2,7 @@
 
 # Training Data Pipeline
 
-![Sync Status](https://github.com/YOUR_GITHUB_USER/YOUR_REPO_NAME/actions/workflows/auto-sync.yml/badge.svg)
+![Sync Status](https://github.com/Seat83/my-training-data/actions/workflows/auto-sync.yml/badge.svg)
 
 **Last successful sync:** _updated automatically_
 
