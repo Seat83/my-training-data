@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T05:38:24.709680",
+  "generated_at": "2026-04-22T06:32:53.743293",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -409,6 +409,81 @@
           "max_hr": 148,
           "avg_cadence": 86.25,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i141921474",
+      "date": "2026-04-22",
+      "type": "Run",
+      "name": "Vila Nova de Gaia Running",
+      "interval_summary": [
+        "6x 6m31s 125bpm",
+        "1x 68s 131bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "391s@125bpm86rpm",
+          "duration_secs": 399,
+          "avg_hr": 112,
+          "max_hr": 126,
+          "avg_cadence": 85.1178,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@125bpm86rpm",
+          "duration_secs": 390,
+          "avg_hr": 122,
+          "max_hr": 135,
+          "avg_cadence": 85.57692,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@125bpm86rpm",
+          "duration_secs": 385,
+          "avg_hr": 124,
+          "max_hr": 134,
+          "avg_cadence": 86.38182,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@125bpm86rpm",
+          "duration_secs": 403,
+          "avg_hr": 128,
+          "max_hr": 139,
+          "avg_cadence": 85.794044,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@125bpm86rpm",
+          "duration_secs": 395,
+          "avg_hr": 131,
+          "max_hr": 139,
+          "avg_cadence": 86.32405,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "391s@125bpm86rpm",
+          "duration_secs": 375,
+          "avg_hr": 130,
+          "max_hr": 134,
+          "avg_cadence": 86.95734,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "68s@131bpm86rpm",
+          "duration_secs": 68,
+          "avg_hr": 131,
+          "max_hr": 137,
+          "avg_cadence": 85.60294,
+          "zone": 1
         }
       ]
     }
