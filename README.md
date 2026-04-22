@@ -18,9 +18,9 @@ Built on the [Section 11 Protocol](https://github.com/CrankAddict/section-11).
 | File | Description | Link |
 |------|-------------|------|
 | `latest.json` | Current 7-day snapshot + derived metrics | [View](https://github.com/Seat83/my-training-data/blob/main/latest.json) |
-| `history.json` | Longitudinal data (daily/weekly/monthly) | [View](https://raw.githubusercontent.com/Seat83/my-training-data/main/history.json) |
-| `intervals.json` | Per-interval data for structured sessions | [View](https://raw.githubusercontent.com/Seat83/my-training-data/main/intervals.json) |
-| `routes.json` | Route/terrain data (when GPX/TCX attachments exist) | [View](https://raw.githubusercontent.com/Seat83/my-training-data/main/routes.json) |
+| `history.json` | Longitudinal data (daily/weekly/monthly) | [View](https://github.com/Seat83/my-training-data/blob/main/history.json) |
+| `intervals.json` | Per-interval data for structured sessions | [View](https://github.com/Seat83/my-training-data/blob/main/intervals.json) |
+| `routes.json` | Route/terrain data (when GPX/TCX attachments exist) | [View](https://github.com/Seat83/my-training-data/blob/main/routes.json) |
 
 ## Auto-Sync
 
@@ -30,10 +30,10 @@ Data syncs every 15 minutes via GitHub Actions. The pipeline pulls activities, w
 
 ```
 Analyze my training using these data files:
-- Current: https://raw.githubusercontent.com/Seat83/my-training-data/main/latest.json
-- History: https://raw.githubusercontent.com/Seat83/my-training-data/main/history.json
-- Intervals: https://raw.githubusercontent.com/Seat83/my-training-data/main/intervals.json
-- Routes: https://raw.githubusercontent.com/Seat83/my-training-data/main/routes.json
+- Current: https://github.com/Seat83/my-training-data/blob/main/latest.json
+- History: https://github.com/Seat83/my-training-data/blob/main/history.json
+- Intervals: https://github.com/Seat83/my-training-data/blob/main/intervals.json
+- Routes: https://github.com/Seat83/my-training-data/blob/main/routes.json
 ```
 
 For best results, pair with the [Section 11 instruction set](https://github.com/CrankAddict/section-11).
