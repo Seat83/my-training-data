@@ -4,7 +4,7 @@
 
 ![Sync Status](https://github.com/Seat83/my-training-data/actions/workflows/auto-sync.yml/badge.svg)
 
-**Last successful sync:** 2026-04-22 11:44:13 UTC
+**Last successful sync:** 2026-04-22 12:12:01 UTC
 
 Automated training data pipeline from [Intervals.icu](https://intervals.icu) for AI coaching analysis.
 Built on the [Section 11 Protocol](https://github.com/CrankAddict/section-11).
