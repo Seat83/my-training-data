@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T06:51:58.151624",
+  "generated_at": "2026-04-25T07:49:05.113610",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -561,6 +561,54 @@
           "label": "70s@2.56mps87rpm",
           "duration_secs": 70,
           "avg_cadence": 86.62857
+        }
+      ]
+    },
+    {
+      "activity_id": "i142735202",
+      "date": "2026-04-25",
+      "type": "Run",
+      "name": "Vila Nova de Gaia Running",
+      "interval_summary": [
+        "3x 6m26s 139bpm",
+        "1x 2m5s 138bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "386s@139bpm86rpm",
+          "duration_secs": 393,
+          "avg_hr": 133,
+          "max_hr": 148,
+          "avg_cadence": 84.96438,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "386s@139bpm86rpm",
+          "duration_secs": 386,
+          "avg_hr": 144,
+          "max_hr": 150,
+          "avg_cadence": 86.55181,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "386s@139bpm86rpm",
+          "duration_secs": 380,
+          "avg_hr": 139,
+          "max_hr": 147,
+          "avg_cadence": 86.93421,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "125s@138bpm86rpm",
+          "duration_secs": 125,
+          "avg_hr": 138,
+          "max_hr": 149,
+          "avg_cadence": 85.712,
+          "zone": 2
         }
       ]
     }
