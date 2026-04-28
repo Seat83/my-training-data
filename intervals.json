@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T04:48:38.884268",
+  "generated_at": "2026-04-28T06:45:49.785480",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -710,6 +710,99 @@
           "avg_hr": 137,
           "max_hr": 140,
           "avg_cadence": 84.90476,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i143573119",
+      "date": "2026-04-28",
+      "type": "Run",
+      "name": "Vila Nova de Gaia Running",
+      "interval_summary": [
+        "1x 6m29s 108bpm",
+        "6x 6m30s 132bpm",
+        "1x 15s 142bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "389s@108bpm85rpm",
+          "duration_secs": 389,
+          "avg_hr": 108,
+          "max_hr": 119,
+          "avg_cadence": 84.71465,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 119,
+          "max_hr": 119,
+          "avg_cadence": 85.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "390s@132bpm86rpm",
+          "duration_secs": 385,
+          "avg_hr": 121,
+          "max_hr": 139,
+          "avg_cadence": 85.34286,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "390s@132bpm86rpm",
+          "duration_secs": 383,
+          "avg_hr": 126,
+          "max_hr": 138,
+          "avg_cadence": 85.62924,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "390s@132bpm86rpm",
+          "duration_secs": 407,
+          "avg_hr": 133,
+          "max_hr": 147,
+          "avg_cadence": 85.144966,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "390s@132bpm86rpm",
+          "duration_secs": 401,
+          "avg_hr": 137,
+          "max_hr": 145,
+          "avg_cadence": 85.52369,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "390s@132bpm86rpm",
+          "duration_secs": 380,
+          "avg_hr": 135,
+          "max_hr": 139,
+          "avg_cadence": 86.03158,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "390s@132bpm86rpm",
+          "duration_secs": 386,
+          "avg_hr": 137,
+          "max_hr": 145,
+          "avg_cadence": 85.96891,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "15s@142bpm85rpm",
+          "duration_secs": 15,
+          "avg_hr": 142,
+          "max_hr": 143,
+          "avg_cadence": 85.46667,
           "zone": 2
         }
       ]
